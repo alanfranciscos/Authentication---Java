@@ -1,4 +1,4 @@
-package com.lds.authentication.port.user;
+package com.lds.authentication.port.dao.user;
 
 import com.lds.authentication.domain.UserModel;
 
