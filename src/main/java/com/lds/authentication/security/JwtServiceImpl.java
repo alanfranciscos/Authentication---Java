@@ -1,7 +1,6 @@
-package br.fai.backend.lds.backend.main.security;
+package com.lds.authentication.security;
 
 import com.lds.authentication.domain.UserModel;
-import com.lds.authentication.security.JwtService;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
